@@ -9,6 +9,7 @@ import {
   ClockIcon,
   CalendarDaysIcon,
   CurrencyDollarIcon,
+  ChartPieIcon,
   ChartBarIcon,
   CogIcon,
   UserIcon
@@ -23,6 +24,7 @@ const navigation = [
   { name: 'Attendance', href: '/attendance', icon: ClockIcon, roles: ['ADMIN', 'HR', 'MANAGER', 'EMPLOYEE'] },
   { name: 'Leave Requests', href: '/leave', icon: CalendarDaysIcon, roles: ['ADMIN', 'HR', 'MANAGER', 'EMPLOYEE'] },
   { name: 'Payroll', href: '/payroll', icon: CurrencyDollarIcon, roles: ['ADMIN', 'HR'] },
+  { name: 'Performance', href: '/performance', icon: ChartPieIcon, roles: ['ADMIN', 'HR', 'MANAGER', 'EMPLOYEE'] },
   { name: 'Reports', href: '/reports', icon: ChartBarIcon, roles: ['ADMIN', 'HR', 'MANAGER'] },
   { name: 'Settings', href: '/settings', icon: CogIcon, roles: ['ADMIN'] },
 ]
