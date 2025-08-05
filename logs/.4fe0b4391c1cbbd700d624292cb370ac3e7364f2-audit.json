@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\rpavi\\react\\HRMS-main\\HrmsBackend-main\\logs\\.4fe0b4391c1cbbd700d624292cb370ac3e7364f2-audit.json",
+    "files": [
+        {
+            "date": 1754323627322,
+            "name": "C:\\Users\\rpavi\\react\\HRMS-main\\HrmsBackend-main\\logs\\exceptions-2025-08-04.log",
+            "hash": "c62d0dddddbf78c61503c866295323c4e2da54eacf2ccbf1ea0557725d8608ac"
+        },
+        {
+            "date": 1754367590770,
+            "name": "C:\\Users\\rpavi\\react\\HRMS-main\\HrmsBackend-main\\logs\\exceptions-2025-08-05.log",
+            "hash": "1697f4464ff1fe438d323e2cea3760d033ffd9f38e1ed152158358fdf8f64ff3"
+        }
+    ],
+    "hashType": "sha256"
+}
